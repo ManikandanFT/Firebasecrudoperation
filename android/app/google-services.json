@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "891232113789",
+    "firebase_url": "https://crudopration-a2795-default-rtdb.firebaseio.com",
+    "project_id": "crudopration-a2795",
+    "storage_bucket": "crudopration-a2795.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891232113789:android:0e4866c1490ef240294d14",
+        "android_client_info": {
+          "package_name": "com.example.firebasetestcrud"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLoieiyGxGg_je1LX25kkG4WoigXP_cCE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
